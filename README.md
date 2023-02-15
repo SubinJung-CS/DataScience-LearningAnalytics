@@ -31,3 +31,5 @@ This project has some main files that you should have a look:
 - `CSC8631_MOOC_report.Rmd`: This file is located in `reports` directory and have a content of main report. 
 - `CSC8631_Reflective Report.pdf`: This file is located in `reports` directory and have a content of reflective report. 
 
+## About
+This project uses CRISP-DM to structure the investigation and ProjectTemplate to structure the analysis. The details can be found in the report.

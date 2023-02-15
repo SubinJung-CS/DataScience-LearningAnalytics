@@ -1,5 +1,14 @@
 # CSC8631_MOOC
 
+## About
+Learning Analytics is becoming one of the important subjects for Data Science. It is often recognised as the measurement of collection, analysis and reporting the data of learners and their surroundings. Especially, the main purpose of learning analytics focuses on delivering shared insights and finding efficient method of measuring engagement of learners. 
+
+The massive open online course (MOOC) dataset, called “Cyber Security: Safety At Home, Online, and in Life”, is collected from its online method provider FutureLearn. It has been collected by 7 runs of online course and contains the learners’ progress and their profiles. 
+
+The main objectives of this project is understanding who the main client base is and comprehending their needs in order to enabling to provide learners more essential learning materials. Examples of related business questions could be “What is the background/job of learners and does it affect to the engagement of course?” and “What is the average time to complete the course for learners and why?”
+
+Especially, the project uses CRISP-DM to structure the investigation and ProjectTemplate to structure the analysis. The details can be found in the report.
+
 ## Getting Started
 Before loading a project, running `setwd('Type Path Here')` is required with
 the file path. Instead of this you can simply click the 'Session' in the task bar
@@ -30,12 +39,3 @@ This project has some main files that you should have a look:
 - `01-A.R`: This file is in `munge` directory and includes a preprocessing on dataset.
 - `CSC8631_MOOC_report.Rmd`: This file is located in `reports` directory and have a content of main report. 
 - `CSC8631_Reflective Report.pdf`: This file is located in `reports` directory and have a content of reflective report. 
-
-## About
-Learning Analytics is becoming one of the important subjects for Data Science. It is often recognised as the measurement of collection, analysis and reporting the data of learners and their surroundings. Especially, the main purpose of learning analytics focuses on delivering shared insights and finding efficient method of measuring engagement of learners. 
-
-The massive open online course (MOOC) dataset, called “Cyber Security: Safety At Home, Online, and in Life”, is collected from its online method provider FutureLearn. It has been collected by 7 runs of online course and contains the learners’ progress and their profiles. 
-
-The main objectives of this project is understanding who the main client base is and comprehending their needs in order to enabling to provide learners more essential learning materials. Examples of related business questions could be “What is the background/job of learners and does it affect to the engagement of course?” and “What is the average time to complete the course for learners and why?”
-
-Especially, the project uses CRISP-DM to structure the investigation and ProjectTemplate to structure the analysis. The details can be found in the report.

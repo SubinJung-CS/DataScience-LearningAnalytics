@@ -1,4 +1,4 @@
-# CSC8631_MOOC
+# Data Science - Learning Analytics
 
 ## About
 Learning Analytics is becoming one of the important subjects for Data Science. It is often recognised as the measurement of collection, analysis and reporting the data of learners and their surroundings. Especially, the main purpose of learning analytics focuses on delivering shared insights and finding efficient method of measuring engagement of learners. 
